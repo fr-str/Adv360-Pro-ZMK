@@ -65,7 +65,7 @@
         };
 
         ralt {
-            bindings = <&kp RALT>;
+            bindings = <&kp LEFT_ALT>;
             key-positions = <41 44>;
         };
 
